@@ -36,7 +36,9 @@
   
   <h2>😎 About Me 😎</h2></div>
 
-Hello — I’m a security researcher specializing in penetration testing and red team operations. I enjoy practical attack demonstrations, vulnerability analysis, PoC development, and creating hands‑on penetration testing training materials.
+Hello
+I’m a security researcher specializing in penetration testing and red team operations. 
+I enjoy practical attack demonstrations, vulnerability analysis, PoC development, and creating hands‑on penetration testing training materials.
  
 <a href="https://instagram.com/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jnbccert/"
