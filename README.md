@@ -36,7 +36,7 @@
   
   <h2>😎 About Me 😎</h2></div>
  
-<a href="https://instagram.com/jnbccert">
+<a href="https://instagram.com/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jnbccert/"
  style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
@@ -50,7 +50,7 @@
  
   <br/>
   
-![king-ggobuk GitHub stats](https://github-readme-stats.vercel.app/api?username=king-ggobuk&show_icons=true&theme=radical)  
+![redyank GitHub stats](https://github-readme-stats.vercel.app/api?username=king-ggobuk&show_icons=true&theme=radical)  
 
 </a>
  
