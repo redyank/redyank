@@ -50,7 +50,7 @@
  
   <br/>
   
-![redyank GitHub stats](https://github-readme-stats.vercel.app/api?username=king-ggobuk&show_icons=true&theme=radical)  
+![redyank GitHub stats](https://github-readme-stats.vercel.app/api?username=redyank&show_icons=true&theme=radical)  
 
 </a>
  
