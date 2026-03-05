@@ -3,60 +3,78 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&height=150&section=header&text=redyank&fontColor=FF4C4C&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-
-  
  <br/>
- <br/>
-  
-<div align=center><h2>📚 STACKS 📚</h2></div>
-
-<br>
-<div align=center> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-<br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<br>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <br>
  
-  
   <h2>😎 About Me 😎</h2></div>
-
 Hello
 I’m a security researcher specializing in penetration testing and red team operations. 
-I enjoy practical attack demonstrations, vulnerability analysis, PoC development, and creating hands‑on penetration testing training materials.
- 
-<a href="https://instagram.com/">
-<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jnbccert/"
- style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  
-  
-   <br/>
-   <br/>
+I enjoy practical attack demonstrations, vulnerability analysis, PoC development, and creating hands‑on penetration testing training materials
+<br/>
+<br/>
    
 
+<div align="center">
+<h2>🏆 CERTIFIED ACHIEVEMENTS</h2>
+</div>
 
-<h2>💎 Github Stats 💎</h2>
- 
-  <br/>
-  
-![redyank GitHub stats](https://github-readme-stats.vercel.app/api?username=redyank&show_icons=true&theme=radical)  
+<br>
+<div align="center">
+<table>
+<tr>
+<th>Identifier</th>
+<th>Description</th>
+<th>Verification</th>
+<th>POC</th>
+</tr>
 
+<tr>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-25924">CVE-2026-29780</a></td>
+<td>Path Traversal → Arbitrary File Write in Example Script</td>
+<td>NVD</td>
+<td><a href="#">POC</a></td>
+</tr>
+
+<tr>
+<td>KVE-2026-0118</td>
+<td>Improper Access Control → Mass Data Exposure</td>
+<td>KNVD</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>KVE-2025-0243</td>
+<td>Hardcoded DB & Crypto Keys (Android)</td>
+<td>KNVD</td>
+<td>-</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+<div align=center><h2>📚 STACKS 📚</h2></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/Burp Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frida-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JADX-000000?style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <br>
+
+ <div align="center">
+</div>
 </a>
- 
-
 </div>
