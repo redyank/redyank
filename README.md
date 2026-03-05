@@ -28,7 +28,7 @@ I enjoy practical attack demonstrations, vulnerability analysis, PoC development
 </tr>
 
 <tr>
-<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-25924">CVE-2026-29780</a></td>
+<td><a href="#">CVE-2026-29780</a></td>
 <td>Path Traversal → Arbitrary File Write in Example Script</td>
 <td>NVD</td>
 <td><a href="#">POC</a></td>
