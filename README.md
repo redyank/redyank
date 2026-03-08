@@ -28,10 +28,10 @@ I enjoy practical attack demonstrations, vulnerability analysis, PoC development
 </tr>
 
 <tr>
-<td><a href="#">CVE-2026-29780</a></td>
+<td><a href="[#](https://www.cve.org/CVERecord?id=CVE-2026-29780)">CVE-2026-29780</a></td>
 <td>Path Traversal → Arbitrary File Write in Example Script</td>
 <td>NVD</td>
-<td><a href="#">POC</a></td>
+<td><a href="[#](https://www.cve.org/CVERecord?id=CVE-2026-29780)">POC</a></td>
 </tr>
 
 <tr>
