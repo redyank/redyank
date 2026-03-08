@@ -27,9 +27,8 @@
   Creating hands-on penetration testing labs and attack demonstration materials.
 </details>
 <br/>
-<br/>
-   
 
+  
 <div align="center">
 <h2>🏆 CERTIFIED ACHIEVEMENTS</h2>
 </div>
@@ -72,24 +71,22 @@
 <br>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Burp Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=go&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Frida-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JADX-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDA-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frida-FFCA28?style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/pwntools-5C2D91?style=for-the-badge&logo=python&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
-  <br>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/pip--audit-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/semgrep-00B140?style=for-the-badge&logo=semgrep&logoColor=white">
   <br>
 
  <div align="center">
