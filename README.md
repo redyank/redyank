@@ -5,10 +5,27 @@
 ####  :wave: Welcome my github profile !
  <br/>
  
-  <h2>😎 About Me 😎</h2></div>
-Hello
-I’m a security researcher specializing in penetration testing and red team operations. 
-I enjoy practical attack demonstrations, vulnerability analysis, PoC development, and creating hands‑on penetration testing training materials
+<h2>😎 About Me 😎</h2>
+
+<details>
+  <summary><b>⚔️ Red Team & Penetration Testing</b></summary>
+  Specialized in penetration testing and red team operations with a focus on practical attack simulations.
+</details>
+
+<details>
+  <summary><b>🐞 Vulnerability Research</b></summary>
+  Researching security vulnerabilities in open-source software and developing PoC exploits.
+</details>
+
+<details>
+  <summary><b>🚩 RedPoc</b></summary>
+  Co-Founder & Security Researcher at **RedPoc**, a vulnerability research team.
+</details>
+
+<details>
+  <summary><b>🧪 Security Training</b></summary>
+  Creating hands-on penetration testing labs and attack demonstration materials.
+</details>
 <br/>
 <br/>
    
