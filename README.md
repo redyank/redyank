@@ -44,7 +44,7 @@
 
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-29780">CVE-2026-29780</a></td>
-<td>Path Traversal → Arbitrary File Write in Example Script</td>
+<td>Path Traversal in Official Example Script Leading to Arbitrary File Write</td>
 <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-29780">POC</a></td>
 </tr>
 <tr>
