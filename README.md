@@ -39,40 +39,39 @@
 <tr>
 <th>Identifier</th>
 <th>Description</th>
-<th>Verification</th>
 <th>POC</th>
 </tr>
 
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-29780">CVE-2026-29780</a></td>
 <td>Path Traversal → Arbitrary File Write in Example Script</td>
-<td>NVD</td>
 <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-29780">POC</a></td>
 </tr>
 <tr>
 <td><a href="#">CVE-2026-33154</a></td>
 <td>Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver</td>
-<td>NVD</td>
 <td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td>
 </tr>
 <tr>
-<td><a href="#">CVE-2026-29780</a></td>
+<td><a href="#">CVE-2026-33147</a></td>
 <td>Stack-based Buffer Overflow in gmt_remote_dataset_id</td>
-<td>NVD</td>
 <td><a href="https://github.com/GenericMappingTools/gmt/security/advisories/GHSA-fqxx-62x7-9gwg">POC</a></td>
+</tr>
+<tr>
+<td><a href="#">CVE-2026-33310</a></td>
+<td>Command Injection via shell() Expansion in Parameter Defaults</td>
+<td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
 </tr>
 
 <tr>
 <td>KVE-2026-0118</td>
 <td>Improper Access Control → Mass Data Exposure</td>
-<td>KNVD</td>
 <td>-</td>
 </tr>
 
 <tr>
 <td>KVE-2025-0243</td>
 <td>Hardcoded DB & Crypto Keys (Android)</td>
-<td>KNVD</td>
 <td>-</td>
 </tr>
 
