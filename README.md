@@ -48,7 +48,7 @@
 <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-29780">POC</a></td>
 </tr>
 <tr>
-<td><a href="#">CVE-2026-33154</a></td>
+<td><a href="https://www.cve.org/CVERecord?id=CVE-2026-33154">CVE-2026-33154</a></td>
 <td>Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver</td>
 <td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td>
 </tr>
