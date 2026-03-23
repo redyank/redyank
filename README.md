@@ -62,13 +62,16 @@
 <td>Command Injection via shell() Expansion in Parameter Defaults</td>
 <td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
 </tr>
-
+<tr>
+<td>KVE-2026-0325</td>
+<td>Improper Access Control in org_part Parameter Allows Unauthorized Access to Reservation Data</td>
+<td>-</td>
+</tr>
 <tr>
 <td>KVE-2026-0118</td>
 <td>Improper Access Control → Mass Data Exposure</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>KVE-2025-0243</td>
 <td>Hardcoded DB & Crypto Keys (Android)</td>
