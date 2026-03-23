@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td>KVE-2026-0325</td>
-<td>Improper Access Control in org_part Parameter Allows Unauthorized Access to Reservation Data</td>
+<td>Broken Access Control in org_part Enables Data Exposure</td>
 <td>-</td>
 </tr>
 <tr>
