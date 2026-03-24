@@ -41,27 +41,30 @@
 <th>Description</th>
 <th>POC</th>
 </tr>
-
+<td><a href="#">CVE-2026-33752</a></td>
+<td>Redirect-based SSRF leading to internal network access in curl_cffi (with TLS impersonation bypass)</td>
+<td><a href="#">POC</a></td>
+</tr>
+<td><a href="#">CVE-2026-33310</a></td>
+<td>Command Injection via shell() Expansion in Parameter Defaults</td>
+<td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
+</tr>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33147">CVE-2026-33147</a></td>
+<td>Stack-based Buffer Overflow in gmt_remote_dataset_id</td>
+<td><a href="https://github.com/GenericMappingTools/gmt/security/advisories/GHSA-fqxx-62x7-9gwg">POC</a></td>
+</tr>
+<td><a href="https://www.cve.org/CVERecord?id=CVE-2026-33154">CVE-2026-33154</a></td>
+<td>Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver</td>
+<td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td>
+</tr>
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-29780">CVE-2026-29780</a></td>
 <td>Path Traversal in Official Example Script Leading to Arbitrary File Write</td>
 <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-29780">POC</a></td>
 </tr>
 <tr>
-<td><a href="https://www.cve.org/CVERecord?id=CVE-2026-33154">CVE-2026-33154</a></td>
-<td>Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver</td>
-<td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td>
-</tr>
 <tr>
-<td><a href="#">CVE-2026-33147</a></td>
-<td>Stack-based Buffer Overflow in gmt_remote_dataset_id</td>
-<td><a href="https://github.com/GenericMappingTools/gmt/security/advisories/GHSA-fqxx-62x7-9gwg">POC</a></td>
-</tr>
 <tr>
-<td><a href="#">CVE-2026-33310</a></td>
-<td>Command Injection via shell() Expansion in Parameter Defaults</td>
-<td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
-</tr>
 <tr>
 <td>KVE-2026-0325</td>
 <td>Broken Access Control in org_part Enables Data Exposure</td>
