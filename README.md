@@ -42,7 +42,7 @@
 <th>POC</th>
 </tr>
 <td><a href="#">CVE-2026-33752</a></td>
-<td>Redirect-based SSRF leading to internal network access in curl_cffi (with TLS impersonation bypass)</td>
+<td>Redirect-based SSRF leading to internal network access in curl_cffi</td>
 <td><a href="#">POC</a></td>
 </tr>
 <td><a href="#">CVE-2026-33310</a></td>
