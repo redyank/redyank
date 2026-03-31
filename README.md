@@ -41,11 +41,15 @@
 <th>Description</th>
 <th>POC</th>
 </tr>
-<td><a href="#">CVE-2026-33752</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-34444">CVE-2026-34444</a></td>
+<td>Sandbox escape and RCE due to incomplete attribute_filter enforcement in getattr/setattr</td>
+<td><a href="#">POC</a></td>
+</tr>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33752">CVE-2026-33752</a></td>
 <td>Redirect-based SSRF leading to internal network access in curl_cffi</td>
 <td><a href="#">POC</a></td>
 </tr>
-<td><a href="#">CVE-2026-33310</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33310">CVE-2026-33310</a></td>
 <td>Command Injection via shell() Expansion in Parameter Defaults</td>
 <td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
 </tr>
