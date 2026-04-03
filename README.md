@@ -8,23 +8,23 @@
 <h2>😎 About Me 😎</h2>
 
 <details>
-  <summary><b>⚔️ Red Team & Penetration Testing</b></summary>
+  <summary><b> Red Team & Penetration Testing</b></summary>
   Specialized in penetration testing and red team operations with a focus on practical attack simulations.
 </details>
 
 <details>
-  <summary><b>🐞 Vulnerability Research</b></summary>
+  <summary><b> Vulnerability Research</b></summary>
   Researching security vulnerabilities in open-source software and developing PoC exploits.
 </details>
 
 <details>
-  <summary><b>🚩 RedPoc</b></summary>
+  <summary><b> RedPoc</b></summary>
   Co-Founder & Security Researcher at RedPoc, a vulnerability research team.
   <br><a href="https://redpoc.github.io">Team redpoc</a></br>
 </details>
 
 <details>
-  <summary><b>🧪 Security Training</b></summary>
+  <summary><b> Security Training</b></summary>
   Creating hands-on penetration testing labs and attack demonstration materials.
 </details>
 <br/>
