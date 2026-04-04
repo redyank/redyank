@@ -43,6 +43,7 @@
 <th>POC</th>
 </td>
 </br>
+<tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-35492">CVE-2026-35472</a></td>
 <td>Path traversal vulnerability in PartitionedDataset allows arbitrary file write</td>
 <td><a href="#">POC</a></td>
