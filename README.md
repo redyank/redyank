@@ -45,7 +45,7 @@
 <td>Path traversal vulnerability in PartitionedDataset allows arbitrary file write</td>
 <td><a href="#">POC</a></td>
 </tr>
-</tr>
+
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-34444">CVE-2026-34444</a></td>
 <td>Sandbox escape and RCE due to incomplete attribute_filter enforcement in getattr/setattr</td>
 <td><a href="#">POC</a></td>
