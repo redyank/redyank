@@ -46,17 +46,15 @@
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-35492">CVE-2026-35472</a></td>
 <td>Path traversal vulnerability in PartitionedDataset allows arbitrary file write</td>
-<td><a href="#">POC</a></td>
+<td><a href="https://github.com/kedro-org/kedro-plugins/security/advisories/GHSA-cjg8-h5qc-hrjv">POC</a></td>
 </tr>
-
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-34444">CVE-2026-34444</a></td>
 <td>Sandbox escape and RCE due to incomplete attribute_filter enforcement in getattr/setattr</td>
-<td><a href="#">POC</a></td>
-
+<td><a href="https://github.com/scoder/lupa/security/advisories/GHSA-69v7-xpr6-6gjm">POC</a></td>
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33752">CVE-2026-33752</a></td>
 <td>Redirect-based SSRF leading to internal network access in curl_cffi</td>
-<td><a href="#">POC</a></td>
+<td><a href="https://github.com/lexiforest/curl_cffi/security/advisories/GHSA-qw2m-4pqf-rmpp">POC</a></td>
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33310">CVE-2026-33310</a></td>
 <td>Command Injection via shell() Expansion in Parameter Defaults</td>
@@ -73,7 +71,7 @@
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-29780">CVE-2026-29780</a></td>
 <td>Path Traversal in Official Example Script Leading to Arbitrary File Write</td>
-<td><a href="https://www.cve.org/CVERecord?id=CVE-2026-29780">POC</a></td>
+<td><a href="https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-389r-rccm-h3h5">POC</a></td>
 </tr>
 <tr>
 <tr>
