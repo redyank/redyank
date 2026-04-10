@@ -103,25 +103,26 @@
 <br>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center>
+
+  <!-- Core (Skill Icons) -->
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python&perline=4" />
+  <br>
+  <!-- Tools & Infra -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=go&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/IDA-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Frida-FFCA28?style=for-the-badge">
-  <br>
   <img src="https://img.shields.io/badge/pwntools-5C2D91?style=for-the-badge&logo=python&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/pip--audit-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/semgrep-00B140?style=for-the-badge&logo=semgrep&logoColor=white">
-  <br>
 
- <div align="center">
+</div>
 </div>
 </a>
 </div>
