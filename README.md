@@ -105,7 +105,7 @@
 <div align=center>
 
   <!-- Core (Skill Icons) -->
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python&perline=4" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,postman&perline=5" />
   <br>
   <!-- Tools & Infra -->
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
@@ -118,7 +118,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-
 
 </div>
 </div>
