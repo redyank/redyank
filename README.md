@@ -44,6 +44,10 @@
 </td>
 </br>
 <tr>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-40491">CVE-2026-40491</a></td>
+<td>Arbitrary File Write via Path Traversal in gdown.extractall</td>
+<td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td>
+</tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39376">CVE-2026-39376</a></td>
 <td>Infinite redirect loop DoS via meta-refresh chain</td>
 <td><a href="https://github.com/kagisearch/fastfeedparser/security/advisories/GHSA-4gx2-pc4f-wq37">POC</a></td>
