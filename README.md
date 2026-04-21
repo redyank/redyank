@@ -8,7 +8,7 @@
 <h2>😎 About Me 😎</h2>
 
 <details>
-  <summary><b> Red Team & Penetration Testing</b></summary>
+  <summary><b> Red Team & Penetration Testing (Public Sector) </b></summary>
   Specialized in penetration testing and red team operations with a focus on practical attack simulations.
 </details>
 
