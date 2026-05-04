@@ -40,46 +40,46 @@
 <tr>
 <th>Identifier</th>
 <th>Description</th>
-<th>POC</th>
+<!-- <th>POC</th> --> 
 </td>
 </br>
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-40491">CVE-2026-40491</a></td>
 <td>Arbitrary File Write via Path Traversal in gdown.extractall</td>
-<td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td>
+<!-- <td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td> -->
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-39376">CVE-2026-39376</a></td>
 <td>Infinite redirect loop DoS via meta-refresh chain</td>
-<td><a href="https://github.com/kagisearch/fastfeedparser/security/advisories/GHSA-4gx2-pc4f-wq37">POC</a></td>
+<!--<td><a href="https://github.com/kagisearch/fastfeedparser/security/advisories/GHSA-4gx2-pc4f-wq37">POC</a></td> --> 
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-35492">CVE-2026-35472</a></td>
 <td>Path traversal vulnerability in PartitionedDataset allows arbitrary file write</td>
-<td><a href="https://github.com/kedro-org/kedro-plugins/security/advisories/GHSA-cjg8-h5qc-hrjv">POC</a></td>
+<!-- <td><a href="https://github.com/kedro-org/kedro-plugins/security/advisories/GHSA-cjg8-h5qc-hrjv">POC</a></td> -->
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-34444">CVE-2026-34444</a></td>
 <td>Sandbox escape and RCE due to incomplete attribute_filter enforcement in getattr/setattr</td>
-<td><a href="https://github.com/scoder/lupa/security/advisories/GHSA-69v7-xpr6-6gjm">POC</a></td>
+<!-- <td><a href="https://github.com/scoder/lupa/security/advisories/GHSA-69v7-xpr6-6gjm">POC</a></td> --> 
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33752">CVE-2026-33752</a></td>
 <td>Redirect-based SSRF leading to internal network access in curl_cffi</td>
-<td><a href="https://github.com/lexiforest/curl_cffi/security/advisories/GHSA-qw2m-4pqf-rmpp">POC</a></td>
+<!-- <td><a href="https://github.com/lexiforest/curl_cffi/security/advisories/GHSA-qw2m-4pqf-rmpp">POC</a></td> --> 
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33310">CVE-2026-33310</a></td>
 <td>Command Injection via shell() Expansion in Parameter Defaults</td>
-<td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td>
+<!-- <td><a href="https://github.com/intake/intake/security/advisories/GHSA-37g4-qqqv-7m99">POC</a></td> --> 
 </tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-33147">CVE-2026-33147</a></td>
 <td>Stack-based Buffer Overflow in gmt_remote_dataset_id</td>
-<td><a href="https://github.com/GenericMappingTools/gmt/security/advisories/GHSA-fqxx-62x7-9gwg">POC</a></td>
+<!-- <td><a href="https://github.com/GenericMappingTools/gmt/security/advisories/GHSA-fqxx-62x7-9gwg">POC</a></td> -->
 </tr>
 <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-33154">CVE-2026-33154</a></td>
 <td>Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver</td>
-<td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td>
+<!-- <td><a href="https://github.com/dynaconf/dynaconf/security/advisories/GHSA-pxrr-hq57-q35p">POC</a></td> -->
 </tr>
 <tr>
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-29780">CVE-2026-29780</a></td>
 <td>Path Traversal in Official Example Script Leading to Arbitrary File Write</td>
-<td><a href="https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-389r-rccm-h3h5">POC</a></td>
+<!-- <td><a href="https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-389r-rccm-h3h5">POC</a></td> --> 
 </tr>
 <tr>
 <tr>
@@ -87,17 +87,17 @@
 <tr>
 <td>KVE-2026-0325</td>
 <td>Broken Access Control in org_part Enables Data Exposure</td>
-<td>-</td>
+<!-- <td>-</td> -->
 </tr>
 <tr>
 <td>KVE-2026-0118</td>
 <td>Improper Access Control → Mass Data Exposure</td>
-<td>-</td>
+<!-- <td>-</td> -->
 </tr>
 <tr>
 <td>KVE-2025-0243</td>
 <td>Hardcoded DB & Crypto Keys (Android)</td>
-<td>-</td>
+<!-- <td>-</td> -->
 </tr>
 
 </table>
