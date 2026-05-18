@@ -52,7 +52,7 @@
 <td>Infinite redirect loop DoS via meta-refresh chain</td>
 <!--<td><a href="https://github.com/kagisearch/fastfeedparser/security/advisories/GHSA-4gx2-pc4f-wq37">POC</a></td> --> 
 </tr>
-<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-35492">CVE-2026-35472</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-35492">CVE-2026-35492</a></td>
 <td>Path traversal vulnerability in PartitionedDataset allows arbitrary file write</td>
 <!-- <td><a href="https://github.com/kedro-org/kedro-plugins/security/advisories/GHSA-cjg8-h5qc-hrjv">POC</a></td> -->
 </tr>
