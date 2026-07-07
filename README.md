@@ -44,7 +44,7 @@
 </td>
 </br>
 <tr>
- <td><a href="#">-</a></td>
+ <td><a href="#">CVE-2026-59923</a></td>
 <td>XSS via percent-encoded javascript URI bypass in safe_url()</td>
 <!-- <td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td> -->
 </tr>
