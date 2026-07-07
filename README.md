@@ -48,6 +48,10 @@
 <td>XSS via percent-encoded javascript URI bypass in safe_url()</td>
 <!-- <td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td> -->
 </tr>
+  <td><a href="#">CVE-2026-59200</a></td>
+<td>Decompression Bomb DoS via PdfParser.PdfStream.decode()</td>
+<!-- <td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td> -->
+</tr> 
 <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-40491">CVE-2026-40491</a></td>
 <td>Arbitrary File Write via Path Traversal in gdown.extractall</td>
 <!-- <td><a href="https://github.com/wkentaro/gdown/security/advisories/GHSA-76hw-p97h-883f">POC</a></td> -->
